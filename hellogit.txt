@@ -7,3 +7,6 @@ hellogit 5
 4.0 版本搞定
 开始运行
 5.0 版本搞定
+i am fen zhi a
+i am coding function a!
+
